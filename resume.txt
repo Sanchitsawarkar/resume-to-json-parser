@@ -1,1 +1,23 @@
+
+## Example Output
+
+```json
+{
+  "personal_information": {
+    "name": "Sanchit Sawarkar",
+    "email": "sanchitsawarkar31@gmail.com",
+    "phone": "+9767373988",
+    "location": "Pune, India"
+  },
+  "education": [
+    {
+      "institution": "Vishwakarma Institute of Technology",
+      "location": "Pune, India",
+      "degree": "Bachelor of Engineering in Electronics & Telecommunication Engineering",
+      "start_date": "Dec 2021",
+      "end_date": "Present",
+      "cgpa": "8.34"
+    },
+    {
+      "institution": "Jai Baj &#8203;:citation[oaicite:0]{index=0}&#8203;
  
